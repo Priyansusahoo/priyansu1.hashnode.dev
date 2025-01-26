@@ -6,6 +6,7 @@ datePublished: Sun Jan 26 2025 07:22:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm6dal38x000e09l4drnnhyme
 slug: streamlined-ollama-webui-setup-automated-scripts-llm-integration-and-desktop-shortcut-creation
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/73FOXT1DvjI/upload/58eb7b6731b1128ece3b1a4a305559fe.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737876475270/18e139f6-d340-4980-b095-cf9e3f1d391c.png
 tags: ai, devtools, automation, gnome, bash-scripting, ubuntu-2004, llm, opensourceai, webui, localai, ollama, deepseekr1, aisetup, linuxproductivity
 
 ---
