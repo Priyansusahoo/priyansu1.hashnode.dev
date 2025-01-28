@@ -1,10 +1,11 @@
 ---
-title: "Docker Containers: Isolation, Resource Control, and Kernel Mechanics"
+title: "Docker Internals: Isolation, Resource Control, and Kernel Mechanics"
 seoTitle: "Docker Containers Explained: Isolation via Namespaces & Cgroups"
 seoDescription: "Learn how Docker leverages Linux kernel features (namespaces, cgroups) for container isolation, resource control, and security. Essential for DevOps & Devs"
 datePublished: Tue Jan 28 2025 13:08:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm6ghtzow000a09l494cudydm
-slug: docker-containers-isolation-resource-control-and-kernel-mechanics
+slug: docker-internals-isolation-resource-control-and-kernel-mechanics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738069798275/2c450695-2d6f-47b1-be43-de42dc3fdab0.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738069690978/ae15a0af-2f42-4f38-8eb1-e1f1429f951d.jpeg
 tags: linux, docker, cloud-computing, devops, containers, oci, kernel, containerization, namespaces, dockercontainers, cgroups, containersecurity, docker-architecture, docker-internals, container-isolation
 
@@ -251,7 +252,7 @@ When you run `docker run`, a chain of tools collaborates:
 
 Docker’s elegance lies in its clever use of Linux kernel primitives. Namespaces isolate, cgroups govern, and layered filesystems optimize storage. By understanding these internals, developers can debug issues, optimize performance, and harden security. Want to go further? Experiment with custom cgroup policies, explore rootless containers, or write your own Seccomp profiles!
 
-## Further Exploration
+# Further Exploration
 
 * [Linux Kernel Documentation: Namespaces](https://www.kernel.org/doc/Documentation/namespaces/)
     
