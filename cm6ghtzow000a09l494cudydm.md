@@ -5,7 +5,7 @@ seoDescription: "Learn how Docker leverages Linux kernel features (namespaces, c
 datePublished: Tue Jan 28 2025 13:08:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm6ghtzow000a09l494cudydm
 slug: docker-internals-isolation-resource-control-and-kernel-mechanics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738069798275/2c450695-2d6f-47b1-be43-de42dc3fdab0.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738072244608/735db38f-e5b0-4e30-b729-51f6e1329f64.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738069690978/ae15a0af-2f42-4f38-8eb1-e1f1429f951d.jpeg
 tags: linux, docker, cloud-computing, devops, containers, oci, kernel, containerization, namespaces, dockercontainers, cgroups, containersecurity, docker-architecture, docker-internals, container-isolation
 
