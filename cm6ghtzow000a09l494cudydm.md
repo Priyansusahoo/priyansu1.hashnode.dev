@@ -23,7 +23,7 @@ Namespaces are the cornerstone of container isolation. They partition global sys
 
 * Purpose: Isolates process IDs. A container’s init process (PID 1) is unaware of processes outside its namespace.
     
-* Mechanics:
+    **Mechanics**:
     
 * The host sees container processes with regular PIDs (e.g., `PID 5000`), but inside the container they start at `PID 1`.
     
